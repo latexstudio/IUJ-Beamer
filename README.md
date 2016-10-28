@@ -12,7 +12,7 @@ This is an *unofficial* Beamer theme for IUJ.
 
 ## Installation
 
-Download this direcotry by clicking **Clone or download** button and then **Download ZIP**.
+Download this direcotry by clicking **Clone or download** button above and then **Download ZIP**.
 
 Unzip the downloaded file, and move it to the directory where you keep LaTeX style files or Beamer theme files. In my environment, it is:
 
